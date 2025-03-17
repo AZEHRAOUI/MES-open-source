@@ -26,7 +26,7 @@ z
 
 ┌─────────────┐         ┌───────────────┐         ┌───────────────┐
 │             │         │               │         │               │
-│  Machines   │◀━━━━━━━▶│  Node-RED     │◀━━━━━━━▶│   InfluxDB    │
+│  Machines   │◀━━━━━━━▶│  Node-RED    ◀━━━━━━━▶│   InfluxDB    │
 │ Industriels │         │  (Acquisition │         │  (Time-series │
 │ (Modbus/    │         │   & Traitement│         │    Database)  │
 │  MQTT)      │         │   des données)│         │               │
